@@ -8,6 +8,7 @@ Projects:
 - Retail Supply Chain Sales Analysis
 - Social Media User Analysis
 - Loan Data Analysis
+  
 Tools & Skills:
 - SQL (Joins, Subqueries, Window Functions)
 - Python (Pandas, NumPy, EDA)
